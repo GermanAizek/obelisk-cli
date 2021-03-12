@@ -1,0 +1,4 @@
+[submodule "LuaBridge"]
+	path = LuaBridge
+	url = https://github.com/vinniefalco/LuaBridge.git
+	branch = master
